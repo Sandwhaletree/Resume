@@ -15,3 +15,6 @@
   * 設計: 透過爬蟲撈取政府公開之API資料，透過表格整理、清洗與遍歷清單，找出對應之公司名稱與經濟部商業司資訊
   * 貢獻: 能整批撈取即時公司經濟部商業司資訊
 
+* [財經]公開資訊站_自動下載年報PDF(完整版) [(Gooogle Colab)](https://colab.research.google.com/drive/1vobYJVERg5rEQNu9WPhw0hLmwtDlRsVO#scrollTo=zEufFHJcsH3v)
+  * 設計: 透過selenium自動化，快速下載上市櫃公司年報
+

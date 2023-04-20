@@ -26,5 +26,6 @@
 
 * [求職]求職文字雲 [(Gooogle Colab)](https://colab.research.google.com/drive/1mOR1tb_xApIYbYXUW_hi9RA0cgMxlo4P#scrollTo=G3cjyZiUj9Y0)
   * 設計: 透過wordcloud文字雲與蒐集之文字數據，以plt方式呈現量化後之數據圖表
+  * ![文字雲]("2023-04-20_求職文字雲.png")
   
 

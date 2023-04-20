@@ -1,4 +1,4 @@
-# Sandy Fan's 作品集
+# Python作品集
 
 * [財經]快速查詢上市、上櫃、興櫃與公發公司之財務報表 [(Gooogle Colab)](https://colab.research.google.com/drive/1ESoexBqL4ErdWrC9mfO7pykyIBeG2Fcx#scrollTo=2PEirgokFqXz)
   * 痛點: 製作同業比較常需挑選產業3-5位競爭者作為產業代表，然而數據撈取需分別下載年報、手動key上數據，易費時也較容易出錯

@@ -23,5 +23,8 @@
 
 * [求職]104&1111求職爬蟲 [(Gooogle Colab)](https://colab.research.google.com/drive/1dT5jOhUYA_RURXs2RaRW5hQK94mHWmEA)
   * 設計: 透過selenium自動化與爬蟲，即時下載想要的特定職缺數據，並用pandas做簡單的分析
+
+* [求職]求職文字雲 [(Gooogle Colab)](https://colab.research.google.com/drive/1mOR1tb_xApIYbYXUW_hi9RA0cgMxlo4P#scrollTo=G3cjyZiUj9Y0)
+  * 設計: 透過wordcloud文字雲與蒐集之文字數據，以plt方式呈現量化後之數據圖表
   
 

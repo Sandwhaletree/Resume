@@ -27,5 +27,3 @@
 * [求職]求職文字雲 [(Gooogle Colab)](https://colab.research.google.com/drive/1mOR1tb_xApIYbYXUW_hi9RA0cgMxlo4P#scrollTo=G3cjyZiUj9Y0)
   * 設計: 透過wordcloud文字雲與蒐集之文字數據，以plt方式呈現量化後之數據圖表
  <br/><img src="https://github.com/Sandwhaletree/Resume/blob/5835283982c22158e97106ad134a1278a0bf6ea2/2023-04-20_%E6%B1%82%E8%81%B7%E6%96%87%E5%AD%97%E9%9B%B2.png" width="300" >
-  
-

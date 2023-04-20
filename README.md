@@ -18,3 +18,10 @@
 * [財經]公開資訊站_自動下載年報PDF(完整版) [(Gooogle Colab)](https://colab.research.google.com/drive/1vobYJVERg5rEQNu9WPhw0hLmwtDlRsVO#scrollTo=zEufFHJcsH3v)
   * 設計: 透過selenium自動化，快速下載上市櫃公司年報
 
+* [求職]104職缺_市場調查 [(Gooogle Colab)](https://colab.research.google.com/drive/1fRuNujDFXbNJicpSj3Ng_9FC5RZ8qfwM#scrollTo=Adsu_BPSTGAs)
+  * 設計: 透過requests與bs4爬蟲，撈取104網站共50頁(1000筆資料)想要的職缺名稱相關求職資訊(地址、薪資、網站連結)
+
+* [求職]104&1111求職爬蟲 [(Gooogle Colab)](https://colab.research.google.com/drive/1dT5jOhUYA_RURXs2RaRW5hQK94mHWmEA)
+  * 設計: 透過selenium自動化與爬蟲，即時下載想要的特定職缺數據，並用pandas做簡單的分析
+  
+

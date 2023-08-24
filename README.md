@@ -24,7 +24,7 @@
 * [求職]104&1111求職爬蟲 [(Gooogle Colab)](https://colab.research.google.com/drive/1dT5jOhUYA_RURXs2RaRW5hQK94mHWmEA)
   * 設計: 透過selenium自動化與爬蟲，即時下載想要的特定職缺數據，並用pandas做簡單的分析
 
-* [求職]104工作薪資情報-整批圖片下載 [(Jupyter)](https://github.com/Sandwhaletree/Resume/raw/main/104%E5%B7%A5%E4%BD%9C%E8%96%AA%E8%B3%87%E6%83%85%E5%A0%B1-%E6%95%B4%E6%89%B9%E5%9C%96%E7%89%87%E4%B8%8B%E8%BC%89_230824_final_opt.ipynb)
+* [求職]104工作薪資情報-整批圖片下載 [(Jupyter)](https://github.com/Sandwhaletree/Resume/blob/main/104%E5%B7%A5%E4%BD%9C%E8%96%AA%E8%B3%87%E6%83%85%E5%A0%B1-%E6%95%B4%E6%89%B9%E5%9C%96%E7%89%87%E4%B8%8B%E8%BC%89_230824_final_opt.ipynb)
   * 設計: 透過selenium自動化與爬蟲，快速蒐集工作職缺薪資情報
 
 * [求職]求職文字雲 [(Gooogle Colab)](https://colab.research.google.com/drive/1mOR1tb_xApIYbYXUW_hi9RA0cgMxlo4P#scrollTo=G3cjyZiUj9Y0)
